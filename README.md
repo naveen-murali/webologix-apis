@@ -23,7 +23,7 @@ Add the below variables to the `.env` file in the root folder.
 
 `GET /file/download?id={fileID}`
 
-  - You can get the fileId from [here](#get-all-the-file-ids)
+  - You can get the `fileId` from [here](#get-all-the-file-ids)
 ### Response
 
     NOTE: Downloads/Streams the corresponding file.
