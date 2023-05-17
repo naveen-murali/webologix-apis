@@ -25,7 +25,7 @@ Add the below variables to the `.env` file in the root folder.
 
 ### Response
 
-    NOTE: Downloads/Streams the corresponding file
+    NOTE: Downloads/Streams the corresponding file. You can get the [here](#get-all-the-file-ids)
 
 ## Create Personal Details
 
