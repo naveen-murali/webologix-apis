@@ -37,7 +37,6 @@ Add the below variables to the `.env` file in the root folder.
     Request Body:
     
     {
-        "_id": "64646f704d887d6d30431cdf"
         "name": "John Doe",
         "age": 25,
         "email": "johndoe@example.com"
